@@ -62,8 +62,8 @@ def add_characters
   
    epic_tragedy[:additional_characters] = arr
    arr = []
-   epic_tragedy[:additional_characters] << {name: "Prince Escalus"}
-   epic_tragedy[:additional_characters] << {name: "Apothecary"}
+   arr << {name: "Prince Escalus"}
+   arr << {name: "Apothecary"}
 
 
 
