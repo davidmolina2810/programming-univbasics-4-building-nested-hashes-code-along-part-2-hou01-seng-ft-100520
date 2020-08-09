@@ -24,7 +24,8 @@ def update_status
   # Code your solution here:
   
   #1. Pass epic_tragedy hash as arg 
-  #2. Fetch 
+  #2. Fetch status for hero and heroine 
+  #3. Change status
 
 
 
