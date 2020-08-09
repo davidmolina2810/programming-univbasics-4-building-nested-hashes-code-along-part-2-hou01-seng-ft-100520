@@ -24,7 +24,7 @@ def update_status
   # Code your solution here:
   
   #1. Pass epic_tragedy hash as arg 
-  #2 .
+  #2. Fetch 
 
 
 
